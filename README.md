@@ -6,3 +6,14 @@ Skills
 ------
 
 **Ansible automation** | *Database administration* | *Linux administration* | *Network administration* | **OpenShift administration** | **Red Hat Cluster Suite administration** | **Zimbra Collaboration Suite administration**
+
+Experience
+----------
+
+### Ubaldo Reidenbach Solutions, Inc.
+      - **Systems Engineer 2** | October 2007 - Present
+        - Manage internal IT infrastructure (Servers and Network)
+        - Research and test technologies for prospective deployments
+        - Deploy and/or integrate diverse systems for clients
+        - Provide Level 2 technical support for clients
+        - Provide technical support for internal users
