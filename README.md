@@ -4,7 +4,7 @@ Experienced Linux administrator with a background in networking, cluster managem
 
 Skills
 ------
-
+| ------ | ------------- |
 | item 1 | description 1 |
 | item 2 | description 2 |
 | item 3 | description 3 |
