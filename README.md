@@ -48,3 +48,7 @@ Experience
   - Assist programmers in the development process
   - Monitor internal IT infrastructure
   - Assist in troubleshooting problems with internal IT infrastructure
+
+### WebFocus Solutions, Inc.
+- **OJT**/**Part-time Web Developer** | *Dec 2002 - March 2003*
+  - Conceptualize, design and develop websites for clients
