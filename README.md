@@ -7,8 +7,8 @@ Skills
 
 **Ansible automation** | *Database administration* | *Linux administration* | *Network administration* | **OpenShift administration** | **Red Hat Cluster Suite administration** | **Zimbra Collaboration Suite administration**
 
-Certification
--------------
+Certifications
+--------------
 
 ### Red Hat
 
