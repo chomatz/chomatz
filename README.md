@@ -29,12 +29,17 @@ Experience
     - Zimbra Collaboration Suite deployment and management
 
 ### Shiftdot Software Development Services
-- **Network Administrator**/**PHP Programmer** | *March 2006 - May 2007*
-  - Inspect IT infrastructure and/or capabilities for clients
-  - Draft technical proposals for clients
-  - Manage internal IT infrastructure (Servers and Network)
-  - Research and test technologies for prospective deployments
-  - Facilitate migrations (data/system) for clients
+
+#### **Network Administrator**/**PHP Programmer** | *March 2006 - May 2007*
+  - Responsibilities
+    - Inspect IT infrastructure and/or capabilities for clients
+    - Draft technical proposals for clients
+    - Manage internal IT infrastructure (Servers and Network)
+    - Research and test technologies for prospective deployments
+    - Facilitate migrations (data/system) for clients
+  - Experiences
+    - Drupal deployment and management
+    - eGroupware deployment and management
 
 ### Xinapse Inc.
 - **Interim Business Development Manager**/**System Administrator**/**Network Administrator**/**Database Administrator**/**Programmer** | *May 2005 - March 2006*
