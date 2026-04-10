@@ -22,6 +22,7 @@ Experience
     - Provide technical support for internal users
   - Experiences
     - OpenShift deployment and management
+    - Application containerization
     - Ansible Automation Platform deployment and management
     - Red Hat Cluster Suite deployment and management
     - Red Hat Enterprise Virtualization deployment and management
@@ -42,27 +43,53 @@ Experience
     - eGroupware deployment and management
 
 ### Xinapse Inc.
-- **Interim Business Development Manager**/**System Administrator**/**Network Administrator**/**Database Administrator**/**Programmer** | *May 2005 - March 2006*
-  - Design project infrastructure for deployments
-  - Draft  technical proposals for clients
-  - Manage internal IT infrastructure (Servers and Network)
-  - Research and test technologies for prospective deployments
 
-- **System Administrator**/**Network Administrator**/**Database Administrator**/**Programmer** | *October 2004 - May 2005*
-  - Inspect IT infrastructure and/or capabilities for clients
-  - Design project infrastructure for deployments
-  - Deploy software and hardware for clients
-  - Manage internal IT infrastructure (Servers and Network)
-  - Research and test technologies for prospective deployments
-  - Facilitate migrations (data/system) for clients
-  - Train technical support candidates
+#### **Interim Business Development Manager**/**System Administrator**/**Network Administrator**/**Database Administrator**/**Programmer** | *May 2005 - March 2006*
+  - Responsibilities
+    - Design project infrastructure for deployments
+    - Draft  technical proposals for clients
+    - Manage internal IT infrastructure (Servers and Network)
+    - Research and test technologies for prospective deployments
+  - Experiences
+    - Apache webserver load balancing
+    - MySQL database server load balancing
+    - BIND deployment and management
 
-- **Quality Associate** | *March 2004 - October 2004*
-  - Monitor project status and developer accomplishments
-  - Assist programmers in the development process
-  - Monitor internal IT infrastructure
-  - Assist in troubleshooting problems with internal IT infrastructure
+#### **System Administrator**/**Network Administrator**/**Database Administrator**/**Programmer** | *October 2004 - May 2005*
+  - Responsibilities
+    - Inspect IT infrastructure and/or capabilities for clients
+    - Design project infrastructure for deployments
+    - Deploy software and hardware for clients
+    - Manage internal IT infrastructure (Servers and Network)
+    - Research and test technologies for prospective deployments
+    - Facilitate migrations (data/system) for clients
+    - Train technical support candidates
+  - Experiences
+    - Linux deployment and management
+    - Unix deployment and management
+    - PHP development
+    - LAMP stack deployment and management
+    - Server virtualization
+    - Firewall deployment and management
+    - Routing configuration
+
+#### **Quality Associate** | *March 2004 - October 2004*
+  - Responsibilities
+    - Monitor project status and developer accomplishments
+    - Assist programmers in the development process
+    - Monitor internal IT infrastructure
+    - Assist in troubleshooting problems with internal IT infrastructure
+  - Experiences
+    - Visual Basic 6 development
+    - MySQL data manipulation
 
 ### WebFocus Solutions, Inc.
-- **OJT**/**Part-time Web Developer** | *Dec 2002 - March 2003*
-  - Conceptualize, design and develop websites for clients
+
+#### **OJT**/**Part-time Web Developer** | *Dec 2002 - March 2003*
+  - Responsibilities
+    - Conceptualize, design and develop websites for clients
+  - Experiences
+    - HTML development
+    - Javascript development
+    - Macromedia Studio (Dreamweaver, Flash, Fireworks) development
+    - Photoshop image manipulation
