@@ -4,4 +4,5 @@ Experienced Linux administrator with a background in networking, cluster managem
 
 Skills
 ------
-**Ansible automation** | *Linux administration* | *Network administration* | **OpenShift administration** | **Red Hat Cluster Suite administration** | **Zimbra Collaboration Suite administration**
+
+**Ansible automation** | *Database administration* | *Linux administration* | *Network administration* | **OpenShift administration** | **Red Hat Cluster Suite administration** | **Zimbra Collaboration Suite administration**
