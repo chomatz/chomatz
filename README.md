@@ -4,8 +4,4 @@ Experienced Linux administrator with a background in networking, cluster managem
 
 Skills
 ------
-| header | description   |
-| ------ | ------------- |
-| item 1 | description 1 |
-| item 2 | description 2 |
-| item 3 | description 3 |
+**Ansible automation** | **OpenShift administration** | **Red Hat Cluster Suiite Management**
