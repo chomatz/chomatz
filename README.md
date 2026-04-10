@@ -11,7 +11,7 @@ Experience
 ----------
 
 ### Ubaldo Reidenbach Solutions, Inc.
-- **Systems Engineer 2** | October 2007 - Present
+- **Systems Engineer 2** | *October 2007 - Present*
   - Manage internal IT infrastructure (Servers and Network)
   - Research and test technologies for prospective deployments
   - Deploy and/or integrate diverse systems for clients
