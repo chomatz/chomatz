@@ -17,3 +17,12 @@ Experience
   - Deploy and/or integrate diverse systems for clients
   - Provide Level 2 technical support for clients
   - Provide technical support for internal users
+
+### Shiftdot Software Development Services
+- **Network Administrator**/**PHP Programmer** | *March 2006 - May 2007*
+  - Inspect IT infrastructure and/or capabilities for clients
+  - Draft technical proposals for clients
+  - Manage internal IT infrastructure (Servers and Network)
+  - Manage hosted web sites
+  - Research and test technologies for prospective deployments
+  - Facilitate migrations (data/system) for clients
