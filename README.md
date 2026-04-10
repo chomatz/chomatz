@@ -11,13 +11,22 @@ Experience
 ----------
 
 ### Ubaldo Reidenbach Solutions, Inc.
-- **Systems Engineer 2** | *October 2007 - Present*
-  - Manage internal IT infrastructure (Servers and Network)
-  - Research and test technologies for prospective deployments
-  - Deploy and/or integrate diverse systems for clients
-  - Facilitate migrations (data/system) for clients
-  - Provide Level 2 technical support for clients
-  - Provide technical support for internal users
+
+#### **Systems Engineer 2** | *October 2007 - Present*
+  - Responsibilities
+    - Manage internal IT infrastructure (Servers and Network)
+    - Research and test technologies for prospective deployments
+    - Deploy and/or integrate diverse systems for clients
+    - Facilitate migrations (data/system) for clients
+    - Provide Level 2 technical support for clients
+    - Provide technical support for internal users
+  - Experiences
+    - OpenShift deployment and management
+    - Ansible Automation Platform deployment and management
+    - Red Hat Cluster Suite deployment and management
+    - Red Hat Enterprise Virtualization deployment and management
+    - Untangle Unified Threat Management deployment and management
+    - Zimbra Collaboration Suite deployment and management
 
 ### Shiftdot Software Development Services
 - **Network Administrator**/**PHP Programmer** | *March 2006 - May 2007*
