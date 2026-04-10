@@ -15,6 +15,7 @@ Experience
   - Manage internal IT infrastructure (Servers and Network)
   - Research and test technologies for prospective deployments
   - Deploy and/or integrate diverse systems for clients
+  - Facilitate migrations (data/system) for clients
   - Provide Level 2 technical support for clients
   - Provide technical support for internal users
 
@@ -23,6 +24,27 @@ Experience
   - Inspect IT infrastructure and/or capabilities for clients
   - Draft technical proposals for clients
   - Manage internal IT infrastructure (Servers and Network)
-  - Manage hosted web sites
   - Research and test technologies for prospective deployments
   - Facilitate migrations (data/system) for clients
+
+### Xinapse Inc.
+- **Interim Business Development Manager**/**System Administrator**/**Network Administrator**/**Database Administrator**/**Programmer** | *May 2005 - March 2006*
+  - Design project infrastructure for deployments
+  - Draft  technical proposals for clients
+  - Manage internal IT infrastructure (Servers and Network)
+  - Research and test technologies for prospective deployments
+
+- **System Administrator**/**Network Administrator**/**Database Administrator**/**Programmer** | *October 2004 - May 2005*
+  - Inspect IT infrastructure and/or capabilities for clients
+  - Design project infrastructure for deployments
+  - Deploy software and hardware for clients
+  - Manage internal IT infrastructure (Servers and Network)
+  - Research and test technologies for prospective deployments
+  - Facilitate migrations (data/system) for clients
+  - Train technical support candidates
+
+- **Quality Associate** | *March 2004 - October 2004*
+  - Monitor project status and developer accomplishments
+  - Assist programmers in the development process
+  - Monitor internal IT infrastructure
+  - Assist in troubleshooting problems with internal IT infrastructure
